@@ -14,6 +14,7 @@ A list of certifications that DevOps Engineer can take.
 
 - [ ] Certified Kubernetes Application Developer (CKAD)
 - [ ] Certified Kubernetes Administrator (CKA)
+- [ ] Certified Kubernetes Security Specialist (CKSS)
 
 ## HashiStack Certifications by HashiCorp
 
